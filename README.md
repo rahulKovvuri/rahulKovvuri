@@ -1,4 +1,4 @@
-# NGINX - Helm Charts
+# NGINX - testelm Charts
 
 This repository contains packaged Helm charts provided by NGINX:
 
